@@ -11,5 +11,5 @@ http://stylesslabannex.atgj.net/d3.js/d3.js%E3%81%A8topojson%E3%81%A7%E5%9C%B0%E
 http://shimz.me/blog/d3-js/2462
 を参考にd3.jsで使うための日本地図を作成中
 
-↑をさんこうにD3考え中
+↑をさんこうにD3+cofeescriptで考え中...
 http://www.samuraiworks.org/_jsFiddle_/swOreD3/index-5.html
